@@ -1,0 +1,4 @@
+https://oblador.github.io/react-native-vector-icons/
+
+hotjar -> icono parecido a enciende
+grupos pequeños -> torsos-all
